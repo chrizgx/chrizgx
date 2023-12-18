@@ -7,8 +7,8 @@
 [![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/chrizgx) [![codewars](https://img.shields.io/badge/Codewars-ff0000?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/programmingGenius3000) [![codecademy](https://img.shields.io/badge/Codecademy-blue?style=for-the-badge&logo=Codecademy&logoColor=white)](https://www.codecademy.com/profiles/chrizgx)
 
 - 🌱 I’m currently studying Computer Science at Athens University of Economics and Business.
-- 👯 I’m looking to collaborate on any good project written in javascript.
-- 💬 Ask me about Web Application structure.
+- 📖 Now learning: C# .NET
+- 💬 Ask me about Web Applications.
 - 😄 Pronouns: He/Him.
 
 ## Technology Stack
