@@ -17,6 +17,34 @@
 
 ## Favorite Personal Projects
 
+### School Management System (Coming October 4th, 2024)
+
+Technologies Used:
+
+![html](https://img.shields.io/badge/Html-ff0000?style=for-the-badge&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white)  ![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white) ![angular](https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=Angular&logoColor=white) ![typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-js?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+Building a full-stack platform with role-based access and an innovative tab system allowing multiple component instances in one browser tab, improving user workflow. Live preview here on GitHub by October 4, 2024.
+
+### [AUEB CS Study Guide](https://aueb-study-guide.netlify.app)
+
+Technologies Used:
+
+![html](https://img.shields.io/badge/Html-ff0000?style=for-the-badge&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white)  ![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white) ![angular](https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=Angular&logoColor=white) ![typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white)
+
+Links:
+
+[![github](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/chrizgx/studyguide) [![Testit](https://img.shields.io/badge/Test_it-js?style=for-the-badge&logo=Ruff&logoColor=white)](https://aueb-study-guide.netlify.app/) 
+
+### [Chatroom Web Application](https://github.com/chrizgx/chatroom)
+
+Technologies Used:
+
+![html](https://img.shields.io/badge/Html-ff0000?style=for-the-badge&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white)  ![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white) ![angular](https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=Angular&logoColor=white) ![typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white) ![nodejs](https://img.shields.io/badge/Node-js?style=for-the-badge&logo=Nodedotjs&logoColor=white) ![expressjs](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white)
+
+Links:
+
+[![github](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/chrizgx/chatroom) [![Chatroom](https://img.shields.io/badge/Chatroom-js?style=for-the-badge&logo=messenger&logoColor=white)](https://chriz-chatroom-61c4bdb7c191.herokuapp.com/) 
+
 ### [Memory Game](https://chriz-memory.netlify.app/)
 
 Technologies Used:
