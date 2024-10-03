@@ -17,7 +17,7 @@
 
 ## Favorite Personal Projects
 
-### School Management System (Coming October 4th, 2024)
+### School Management System (Coming early October 2024)
 
 Technologies Used:
 
