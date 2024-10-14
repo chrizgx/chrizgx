@@ -23,7 +23,9 @@ Technologies Used:
 
 ![html](https://img.shields.io/badge/Html-ff0000?style=for-the-badge&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white)  ![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white) ![angular](https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=Angular&logoColor=white) ![typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-js?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-Building a full-stack platform with role-based access and an innovative tab system allowing multiple component instances in one browser tab, improving user workflow. Live preview here on GitHub by October 4, 2024.
+Building a full-stack platform with role-based access and an innovative tab system allowing multiple component instances in one browser tab, improving user workflow. Live preview here on GitHub by October 2024.
+
+[![github](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/chrizgx/school-management-backend)
 
 ### [AUEB CS Study Guide](https://aueb-study-guide.netlify.app)
 
